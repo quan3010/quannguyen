@@ -6,10 +6,19 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quannnnn</title>
+      <link>/2019/06/22/quannnnn/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/22/quannnnn/</guid>
+      <description>This is a test</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
@@ -27,7 +36,8 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>Quan Nguyen holds a BSc and a MSc in Economics and Information Management (cum laude) from Maastricht University, Netherlands. He is currently doing his PhD in Learning Analytics &amp;amp; Learning Design at the Open University UK (2016-2019) and working as an Associate Lecturer in Applied Statistics at University of Arts London (Jan 2018 – now).
+His research focuses on the use of learning analytics on a large scale to understand and improve learning design in Virtual Learning Environment.</description>
     </item>
     
     <item>
